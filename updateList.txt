@@ -1,0 +1,9 @@
+MODx;https://modx.com/download;<h2>Current Version – (.*?)</h2>;2.7.1
+Nextcloud;https://nextcloud.com/install/#instructions-server;Latest stable version: (.*?) \(<a;16.0.3
+Audacity;https://www.audacityteam.org;Latest version : (.*?)</span>;2.3.2
+WinSCP;https://winscp.net/eng/download.php;/download/WinSCP-(.*?)-Setup;5.15.3
+Gimp;https://www.gimp.org/downloads/;The current stable release of GIMP is <b>(.*?)</b>;2.10.12
+VLC Media Player;http://www.videolan.org/;get.videolan.org/vlc/(.*?)/win32/;3.0.7.1
+Inkscape;https://inkscape.org/release/;/release/(.*?)/windows/;0.92.4
+Irfanview;https://www.irfanview.com/;<span>Version (.*?)</span>;4.53
+CCleaner;https://www.ccleaner.com/de-de/ccleaner/download/standard;download.ccleaner.com/ccsetup(.*?).exe;560
